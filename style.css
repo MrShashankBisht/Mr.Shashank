@@ -81,6 +81,29 @@
   display: flex !important;
   transform: none !important;
 }
+.Content {
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.Heading {
+  font-size: 32px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.H1Bold {
+  font-size: 36px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700px;
+  font-stretch: normal;
+}
 .Body2Bold {
   font-size: 15px;
   font-style: normal;
@@ -88,8 +111,15 @@
   font-weight: 700px;
   font-stretch: normal;
 }
-.Body3Medium {
-  font-size: 13px;
+.Body2Medium {
+  font-size: 15px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500px;
+  font-stretch: normal;
+}
+.Body1Medium {
+  font-size: 18px;
   font-style: normal;
   font-family: Inter;
   font-weight: 500px;
@@ -102,26 +132,11 @@
   font-weight: 700px;
   font-stretch: normal;
 }
-.H1Bold {
-  font-size: 36px;
+.Body3Medium {
+  font-size: 13px;
   font-style: normal;
   font-family: Inter;
-  font-weight: 700px;
-  font-stretch: normal;
-}
-.Content {
-  font-size: 16px;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: 1.15;
-  text-transform: none;
-  text-decoration: none;
-}
-.Body1Bold {
-  font-size: 18px;
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 700px;
+  font-weight: 500px;
   font-stretch: normal;
 }
 .Body3Bold {
@@ -129,27 +144,5 @@
   font-style: normal;
   font-family: Inter;
   font-weight: 700px;
-  font-stretch: normal;
-}
-.Body1Medium {
-  font-size: 18px;
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 500px;
-  font-stretch: normal;
-}
-.Heading {
-  font-size: 32px;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: 1.15;
-  text-transform: none;
-  text-decoration: none;
-}
-.Body2Medium {
-  font-size: 15px;
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 500px;
   font-stretch: normal;
 }

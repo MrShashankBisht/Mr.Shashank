@@ -7,7 +7,7 @@
   flex-direction: column;
 }
 .androiddeveloperresume-androiddeveloperresume {
-  gap: 80px;
+  gap: 77px;
   width: 100%;
   height: auto;
   display: flex;
@@ -26,8 +26,8 @@
   flex-shrink: 0;
 }
 .androiddeveloperresume-image-placeholder {
-  width: 168px;
-  height: 168px;
+  width: 173px;
+  height: 176px;
   display: flex;
   overflow: hidden;
   position: relative;
@@ -38,13 +38,14 @@
 .androiddeveloperresume-image-placeholder01 {
   top: 0px;
   left: 0px;
-  width: 168px;
-  height: 168px;
+  width: 173px;
+  height: 176px;
   position: absolute;
+  border-radius: 9px;
 }
 .androiddeveloperresume-full-name {
   gap: 24px;
-  width: 688px;
+  width: 683px;
   display: flex;
   flex-grow: 1;
   align-items: flex-start;
@@ -81,8 +82,9 @@
 }
 .androiddeveloperresume-text004 {
   color: var(--dl-color-default-10);
-  height: auto;
-  align-self: stretch;
+  width: 100%;
+  height: 100%;
+  align-self: flex-start;
   text-align: left;
   line-height: 24px;
 }
@@ -874,10 +876,16 @@
   flex-shrink: 0;
 }
 .androiddeveloperresume-text063 {
-  color: var(--dl-color-default-10);
+  color: rgba(77, 74, 213, 1);
   height: auto;
+  font-size: 15px;
+  font-style: Medium;
   text-align: left;
+  font-family: Inter;
+  font-weight: 500;
   line-height: 24px;
+  font-stretch: normal;
+  text-decoration: underline;
 }
 .androiddeveloperresume-text065 {
   color: var(--dl-color-default-10);
@@ -938,7 +946,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.androiddeveloperresume-text081 {
+.androiddeveloperresume-text072 {
   color: var(--dl-color-default-10);
   width: 688px;
   height: auto;
@@ -952,32 +960,38 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.androiddeveloperresume-text083 {
+.androiddeveloperresume-text074 {
+  color: rgba(77, 74, 213, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.androiddeveloperresume-text076 {
   color: var(--dl-color-default-10);
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text085 {
+.androiddeveloperresume-text077 {
   color: var(--dl-color-default-10);
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text086 {
-  color: var(--dl-color-default-10);
-  height: auto;
-  text-align: left;
-  line-height: 24px;
-}
-.androiddeveloperresume-text088 {
+.androiddeveloperresume-text079 {
   color: var(--dl-color-default-50);
   width: 688px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text090 {
+.androiddeveloperresume-text081 {
   color: var(--dl-color-default-10);
   width: 688px;
   height: auto;
@@ -1017,7 +1031,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.androiddeveloperresume-text101 {
+.androiddeveloperresume-text083 {
   color: var(--dl-color-default-10);
   width: 688px;
   height: auto;
@@ -1031,32 +1045,32 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.androiddeveloperresume-text103 {
+.androiddeveloperresume-text085 {
   color: var(--dl-color-default-10);
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text105 {
+.androiddeveloperresume-text087 {
   color: var(--dl-color-default-10);
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text106 {
+.androiddeveloperresume-text088 {
   color: var(--dl-color-default-10);
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text108 {
+.androiddeveloperresume-text090 {
   color: var(--dl-color-default-50);
   width: 688px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text110 {
+.androiddeveloperresume-text092 {
   color: var(--dl-color-default-10);
   width: 688px;
   height: auto;
@@ -1096,7 +1110,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.androiddeveloperresume-text123 {
+.androiddeveloperresume-text103 {
   color: var(--dl-color-default-10);
   width: 688px;
   height: auto;
@@ -1110,32 +1124,38 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.androiddeveloperresume-text125 {
+.androiddeveloperresume-text105 {
+  color: rgba(77, 74, 213, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.androiddeveloperresume-text107 {
   color: var(--dl-color-default-10);
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text127 {
+.androiddeveloperresume-text108 {
   color: var(--dl-color-default-10);
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text128 {
-  color: var(--dl-color-default-10);
-  height: auto;
-  text-align: left;
-  line-height: 24px;
-}
-.androiddeveloperresume-text130 {
+.androiddeveloperresume-text110 {
   color: var(--dl-color-default-50);
   width: 688px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text132 {
+.androiddeveloperresume-text112 {
   color: var(--dl-color-default-10);
   width: 688px;
   height: auto;
@@ -1165,7 +1185,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.androiddeveloperresume-text139 {
+.androiddeveloperresume-text123 {
   color: var(--dl-color-default-10);
   height: auto;
   flex-grow: 1;
@@ -1213,14 +1233,24 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.androiddeveloperresume-text141 {
-  color: var(--dl-color-default-10);
+.androiddeveloperresume-text125 {
+  color: rgba(21, 23, 29, 1);
   height: auto;
+  font-size: 24px;
   align-self: stretch;
+  font-style: Bold;
   text-align: left;
+  font-family: Inter;
+  font-weight: 700;
   line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
 }
-.androiddeveloperresume-text143 {
+.androiddeveloperresume-text126 {
+  color: var(--dl-color-default-10);
+  text-decoration: NONE;
+}
+.androiddeveloperresume-text128 {
   color: var(--dl-color-default-10);
   height: auto;
   align-self: stretch;
@@ -1255,21 +1285,21 @@
   height: 1px;
   position: absolute;
 }
-.androiddeveloperresume-summary1 {
+.androiddeveloperresume-summary01 {
   gap: 40px;
   display: flex;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;
 }
-.androiddeveloperresume-text145 {
+.androiddeveloperresume-text130 {
   color: var(--dl-color-default-50);
   width: 168px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text147 {
+.androiddeveloperresume-text132 {
   color: var(--dl-color-default-10);
   height: auto;
   flex-grow: 1;
@@ -1313,21 +1343,21 @@
   height: 1px;
   position: absolute;
 }
-.androiddeveloperresume-summary2 {
+.androiddeveloperresume-summary02 {
   gap: 40px;
   display: flex;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;
 }
-.androiddeveloperresume-text149 {
+.androiddeveloperresume-text134 {
   color: var(--dl-color-default-50);
   width: 168px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text151 {
+.androiddeveloperresume-text136 {
   color: var(--dl-color-default-10);
   height: auto;
   flex-grow: 1;
@@ -1371,21 +1401,21 @@
   height: 1px;
   position: absolute;
 }
-.androiddeveloperresume-summary3 {
+.androiddeveloperresume-summary03 {
   gap: 40px;
   display: flex;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;
 }
-.androiddeveloperresume-text153 {
+.androiddeveloperresume-text138 {
   color: var(--dl-color-default-50);
   width: 168px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text155 {
+.androiddeveloperresume-text140 {
   color: var(--dl-color-default-10);
   height: auto;
   flex-grow: 1;
@@ -1431,6 +1461,7 @@
   width: 168px;
   height: 163px;
   position: absolute;
+  border-radius: 32px;
 }
 .androiddeveloperresume-title-summary1 {
   gap: 40px;
@@ -1448,21 +1479,31 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.androiddeveloperresume-text157 {
-  color: var(--dl-color-default-10);
+.androiddeveloperresume-text142 {
+  color: rgba(21, 23, 29, 1);
   height: auto;
+  font-size: 24px;
   align-self: stretch;
+  font-style: Bold;
   text-align: left;
+  font-family: Inter;
+  font-weight: 700;
   line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
 }
-.androiddeveloperresume-text159 {
+.androiddeveloperresume-text143 {
+  color: var(--dl-color-default-10);
+  text-decoration: NONE;
+}
+.androiddeveloperresume-text145 {
   color: var(--dl-color-default-10);
   height: auto;
   align-self: stretch;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-summary4 {
+.androiddeveloperresume-summary04 {
   display: flex;
   align-self: stretch;
   align-items: flex-start;
@@ -1490,21 +1531,21 @@
   height: 1px;
   position: absolute;
 }
-.androiddeveloperresume-summary5 {
+.androiddeveloperresume-summary05 {
   gap: 40px;
   display: flex;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;
 }
-.androiddeveloperresume-text161 {
+.androiddeveloperresume-text147 {
   color: var(--dl-color-default-50);
   width: 168px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text163 {
+.androiddeveloperresume-text149 {
   color: var(--dl-color-default-10);
   height: auto;
   flex-grow: 1;
@@ -1548,21 +1589,21 @@
   height: 1px;
   position: absolute;
 }
-.androiddeveloperresume-summary6 {
+.androiddeveloperresume-summary06 {
   gap: 40px;
   display: flex;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;
 }
-.androiddeveloperresume-text165 {
+.androiddeveloperresume-text151 {
   color: var(--dl-color-default-50);
   width: 168px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text167 {
+.androiddeveloperresume-text153 {
   color: var(--dl-color-default-10);
   height: auto;
   flex-grow: 1;
@@ -1606,21 +1647,21 @@
   height: 1px;
   position: absolute;
 }
-.androiddeveloperresume-summary7 {
+.androiddeveloperresume-summary07 {
   gap: 40px;
   display: flex;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;
 }
-.androiddeveloperresume-text169 {
+.androiddeveloperresume-text155 {
   color: var(--dl-color-default-50);
   width: 168px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text171 {
+.androiddeveloperresume-text157 {
   color: var(--dl-color-default-10);
   height: auto;
   flex-grow: 1;
@@ -1642,6 +1683,252 @@
   height: 1px;
   position: absolute;
 }
+.androiddeveloperresume-project2 {
+  gap: 144px;
+  width: 1440px;
+  display: flex;
+  padding: 0 220px;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.androiddeveloperresume-image-placeholder06 {
+  width: 168px;
+  height: 163px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.androiddeveloperresume-image-placeholder07 {
+  top: 0px;
+  left: 0px;
+  width: 168px;
+  height: 163px;
+  position: absolute;
+  border-radius: 24px;
+}
+.androiddeveloperresume-title-summary2 {
+  gap: 40px;
+  width: 688px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.androiddeveloperresume-title-description6 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.androiddeveloperresume-text159 {
+  color: rgba(21, 23, 29, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.androiddeveloperresume-text160 {
+  color: var(--dl-color-default-10);
+  text-decoration: NONE;
+}
+.androiddeveloperresume-text162 {
+  color: var(--dl-color-default-10);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+.androiddeveloperresume-summary08 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.androiddeveloperresume-project-summary6 {
+  gap: 11px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.androiddeveloperresume-divider29 {
+  width: 688px;
+  height: 1px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.androiddeveloperresume-line29 {
+  top: 0px;
+  left: 0px;
+  width: 688px;
+  height: 1px;
+  position: absolute;
+}
+.androiddeveloperresume-summary09 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.androiddeveloperresume-text164 {
+  color: var(--dl-color-default-50);
+  width: 168px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.androiddeveloperresume-text166 {
+  color: var(--dl-color-default-10);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+.androiddeveloperresume-divider30 {
+  width: 688px;
+  height: 1px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.androiddeveloperresume-line30 {
+  top: 0px;
+  left: 0px;
+  width: 688px;
+  height: 1px;
+  position: absolute;
+}
+.androiddeveloperresume-project-summary7 {
+  gap: 11px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.androiddeveloperresume-divider31 {
+  width: 688px;
+  height: 1px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.androiddeveloperresume-line31 {
+  top: 0px;
+  left: 0px;
+  width: 688px;
+  height: 1px;
+  position: absolute;
+}
+.androiddeveloperresume-summary10 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.androiddeveloperresume-text168 {
+  color: var(--dl-color-default-50);
+  width: 168px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.androiddeveloperresume-text170 {
+  color: var(--dl-color-default-10);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+.androiddeveloperresume-divider32 {
+  width: 688px;
+  height: 1px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.androiddeveloperresume-line32 {
+  top: 0px;
+  left: 0px;
+  width: 688px;
+  height: 1px;
+  position: absolute;
+}
+.androiddeveloperresume-project-summary8 {
+  gap: 11px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.androiddeveloperresume-divider33 {
+  width: 688px;
+  height: 1px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.androiddeveloperresume-line33 {
+  top: 0px;
+  left: 0px;
+  width: 688px;
+  height: 1px;
+  position: absolute;
+}
+.androiddeveloperresume-summary11 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.androiddeveloperresume-text172 {
+  color: var(--dl-color-default-50);
+  width: 168px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.androiddeveloperresume-text174 {
+  color: var(--dl-color-default-10);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+.androiddeveloperresume-divider34 {
+  width: 688px;
+  height: 1px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.androiddeveloperresume-line34 {
+  top: 0px;
+  left: 0px;
+  width: 688px;
+  height: 1px;
+  position: absolute;
+}
 .androiddeveloperresume-workedforawesomecompanies {
   gap: 40px;
   width: 1440px;
@@ -1652,7 +1939,7 @@
   flex-direction: column;
   background-color: var(--dl-color-default-96);
 }
-.androiddeveloperresume-text173 {
+.androiddeveloperresume-text176 {
   color: var(--dl-color-default-10);
   height: auto;
   align-self: stretch;
@@ -1665,23 +1952,6 @@
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;
-}
-.androiddeveloperresume-image-placeholder06 {
-  width: 60px;
-  height: 60px;
-  display: flex;
-  overflow: hidden;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 0;
-  border-radius: 8px;
-}
-.androiddeveloperresume-image-placeholder07 {
-  top: 0px;
-  left: 0px;
-  width: 60px;
-  height: 60px;
-  position: absolute;
 }
 .androiddeveloperresume-image-placeholder08 {
   width: 60px;
@@ -1727,8 +1997,25 @@
   flex-shrink: 0;
   border-radius: 8px;
 }
+.androiddeveloperresume-image-placeholder13 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.androiddeveloperresume-image-placeholder14 {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
 .androiddeveloperresume-education {
-  gap: 40px;
+  gap: 16px;
   width: 1440px;
   display: flex;
   padding: 0 220px;
@@ -1736,7 +2023,7 @@
   flex-shrink: 0;
   flex-direction: column;
 }
-.androiddeveloperresume-text175 {
+.androiddeveloperresume-text178 {
   color: var(--dl-color-default-10);
   width: 113px;
   height: auto;
@@ -1748,7 +2035,7 @@
   display: flex;
   align-items: flex-start;
 }
-.androiddeveloperresume-text177 {
+.androiddeveloperresume-text180 {
   color: var(--dl-color-default-10);
   width: 272px;
   height: auto;
@@ -1763,11 +2050,13 @@
 }
 .androiddeveloperresume-career-education-list-item4 {
   gap: 24px;
+  height: 92px;
   display: flex;
   align-items: flex-start;
+  flex-shrink: 0;
   flex-direction: column;
 }
-.androiddeveloperresume-title-description6 {
+.androiddeveloperresume-title-description7 {
   gap: 16px;
   display: flex;
   overflow: hidden;
@@ -1779,28 +2068,21 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.androiddeveloperresume-text179 {
+.androiddeveloperresume-text182 {
   color: var(--dl-color-default-10);
   width: 688px;
   height: auto;
   text-align: left;
   line-height: 36px;
 }
-.androiddeveloperresume-text181 {
+.androiddeveloperresume-text184 {
   color: var(--dl-color-default-50);
   width: 688px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text183 {
-  color: var(--dl-color-default-10);
-  width: 688px;
-  height: auto;
-  text-align: left;
-  line-height: 24px;
-}
-.androiddeveloperresume-divider29 {
+.androiddeveloperresume-divider35 {
   width: 688px;
   height: 1px;
   display: flex;
@@ -1808,7 +2090,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.androiddeveloperresume-line29 {
+.androiddeveloperresume-line35 {
   top: 0px;
   left: 0px;
   width: 688px;
@@ -1821,7 +2103,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.androiddeveloperresume-title-description7 {
+.androiddeveloperresume-title-description8 {
   gap: 16px;
   display: flex;
   overflow: hidden;
@@ -1833,7 +2115,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.androiddeveloperresume-text185 {
+.androiddeveloperresume-text186 {
   color: var(--dl-color-default-10);
   width: 688px;
   height: auto;
@@ -1847,14 +2129,8 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.androiddeveloperresume-text187 {
+.androiddeveloperresume-text188 {
   color: var(--dl-color-default-50);
-  height: auto;
-  text-align: left;
-  line-height: 24px;
-}
-.androiddeveloperresume-text189 {
-  color: var(--dl-color-default-10);
   height: auto;
   text-align: left;
   line-height: 24px;
@@ -1867,12 +2143,11 @@
 }
 .androiddeveloperresume-text191 {
   color: var(--dl-color-default-10);
-  width: 688px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-divider30 {
+.androiddeveloperresume-divider36 {
   width: 688px;
   height: 1px;
   display: flex;
@@ -1880,7 +2155,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.androiddeveloperresume-line30 {
+.androiddeveloperresume-line36 {
   top: 0px;
   left: 0px;
   width: 688px;
@@ -1892,81 +2167,17 @@
   display: flex;
   align-items: flex-start;
 }
-.androiddeveloperresume-text193 {
+.androiddeveloperresume-text192 {
   color: var(--dl-color-default-10);
   width: 272px;
   height: auto;
   text-align: left;
   line-height: 24px;
 }
-.androiddeveloperresume-text195 {
+.androiddeveloperresume-text194 {
   color: var(--dl-color-default-10);
   width: 688px;
   height: auto;
   text-align: left;
-  line-height: 24px;
-}
-.androiddeveloperresume-bottom {
-  gap: 80px;
-  width: 1440px;
-  display: flex;
-  padding: 0 220px;
-  align-items: center;
-  flex-shrink: 0;
-  flex-direction: column;
-}
-.androiddeveloperresume-callto-action {
-  gap: 17px;
-  display: flex;
-  padding: 39px 136px;
-  align-items: center;
-  border-radius: 8px;
-  flex-direction: column;
-  background-color: var(--dl-color-default-96);
-}
-.androiddeveloperresume-title-subtitle {
-  gap: 8px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-.androiddeveloperresume-text197 {
-  color: var(--dl-color-default-10);
-  width: 500px;
-  height: auto;
-  text-align: center;
   line-height: 36px;
-}
-.androiddeveloperresume-text199 {
-  color: var(--dl-color-default-50);
-  width: 728px;
-  height: auto;
-  text-align: center;
-  line-height: 24px;
-}
-.androiddeveloperresume-button-clickable-area {
-  width: 375px;
-  height: 56px;
-  display: flex;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
-.androiddeveloperresume-button {
-  gap: 10px;
-  top: 0px;
-  left: 114px;
-  display: flex;
-  padding: 12px 40px;
-  position: absolute;
-  align-items: center;
-  border-radius: 2px;
-  justify-content: center;
-  background-color: var(--dl-color-default-primary);
-}
-.androiddeveloperresume-text201 {
-  color: var(--dl-color-default-100);
-  height: auto;
-  text-align: center;
-  line-height: 32px;
 }
